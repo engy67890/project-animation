@@ -1,0 +1,424 @@
+
+.div1{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+    top: 0;
+    animation-name: change ;
+    animation-duration:3s;
+   animation-fill-mode: both;
+   
+}
+@keyframes change {
+0%{
+    background-color: rgb(74, 74, 177);
+left: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: rgb(54, 17, 17);
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+ 
+}
+50%{
+    background-color: chartreuse;
+   
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: rgb(187, 35, 65);
+    }
+100%{
+        background-color: salmon;
+        left: 1230px;
+    }
+}
+/* ///////////////////////////////////////////////////////////////// */
+
+.div2{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+top: 100px;
+right: 0;
+    animation-name: changee ;
+    animation-duration: 3s;
+    animation-delay: 3s;
+    animation-fill-mode: both;
+   
+}
+@keyframes changee {
+0%{
+    background-color: rgb(157, 157, 167);
+right: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: brown;
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+}
+50%{
+    background-color: chartreuse;
+    
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: rgb(136, 25, 47);
+    }
+100%{
+        background-color: khaki;
+        right: 1210px;
+    }
+}
+/* ////////////////////////////////////////////////////////// */
+.div3{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+    top: 200px;
+
+    animation-name: change ;
+    animation-duration: 3s;
+    animation-delay: 6s;
+    animation-fill-mode: both;
+   
+}
+@keyframes change {
+0%{
+    background-color: rgb(163, 163, 202);
+left: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: brown;
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+}
+50%{
+    background-color: chartreuse;
+ 
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: rgb(105, 16, 62);
+    }
+100%{
+        background-color: honeydew;
+        left: 1210px;
+    }
+}
+/* //////////////////////////////////////////////////////////// */
+.div4{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+top: 300px;
+right: 0;
+    animation-name: changee ;
+    animation-duration: 3s;
+    animation-delay: 9s;
+    animation-fill-mode: both;
+   
+}
+@keyframes changee {
+0%{
+    background-color: rgb(147, 147, 199);
+right: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: brown;
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+}
+50%{
+    background-color: chartreuse;
+  
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: rgb(215, 227, 50);
+    }
+100%{
+        background-color: navy;
+        right: 1210px;
+    }
+}
+/* /////////////////////////////////////////////////////// */
+.div5{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+    top: 400px;
+
+    animation-name: change ;
+    animation-duration: 3s;
+    animation-delay: 12s;
+    animation-fill-mode: both;
+   
+}
+@keyframes change {
+0%{
+    background-color: rgb(29, 29, 56);
+left: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: brown;
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+}
+50%{
+    background-color: chartreuse;
+
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: hotpink;
+    }
+100%{
+        background-color: rgb(209, 12, 111);
+        left: 1210px;
+    }
+}
+/* /////////////////////////////////////////////////////// */
+.div6{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+top: 500px;
+right: 0;
+    animation-name: changee ;
+    animation-duration: 3s;
+    animation-delay: 15s;
+    animation-fill-mode: both;
+   
+}
+@keyframes changee {
+0%{
+    background-color: rgb(54, 54, 175);
+right: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: brown;
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+}
+50%{
+    background-color: chartreuse;
+  
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: rgb(98, 45, 203);
+    }
+100%{
+        background-color: teal;
+        right: 1210px;
+    }
+}
+/* ///////////////////////////////////////////////////////// */
+.div7{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+    top: 600px;
+
+    animation-name: change ;
+    animation-duration: 3s;
+    animation-delay: 18s;
+    animation-fill-mode:both;
+   
+}
+@keyframes change {
+0%{
+    background-color: rgb(20, 20, 255);
+left: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: brown;
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+}
+50%{
+    background-color: chartreuse;
+
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: rgb(191, 44, 174);
+    }
+100%{
+        background-color: red;
+        left: 1210px;
+    }
+}
+/* ///////////////////////////////////////////////////// */
+.div8{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+top: 700px;
+right: 0;
+    animation-name: changee ;
+    animation-duration:3s;
+    animation-delay: 21s;
+    animation-fill-mode:both;
+   
+}
+@keyframes changee {
+0%{
+    background-color: rgb(199, 199, 227);
+right: 0;
+}
+10%{
+    background-color: blueviolet;
+}
+20%{
+    background-color: brown;
+}
+30%{
+    background-color: burlywood;
+}
+40%{
+    background-color: cadetblue;
+}
+50%{
+    background-color: chartreuse;
+    
+}
+60%{
+        background-color: chocolate;
+    }
+70%{
+        background-color: coral;
+    }
+80%{
+        background-color: cornflowerblue;
+    }
+90%{
+        background-color: rgb(17, 107, 15);
+    }
+100%{
+        background-color: gold;
+        right: 1210px;
+    }
+}
